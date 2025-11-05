@@ -82,6 +82,22 @@ Este projeto visa aplicar princípios de:
 
 ---
 
+## 🎨 Protótipo no Figma
+
+> **Link do protótipo (MVP)** — clique para abrir/duplicar no Figma:  
+> **🔗 [Abrir protótipo no Figma — DUPLICAR E EDITAR](SEU_LINK_DO_FIGMA_AQUI)**
+
+### Como colocar seu próprio link do Figma
+1. No Figma, abra o arquivo do protótipo e clique em **Share** → **Copy link**.  
+2. Substitua `SEU_LINK_DO_FIGMA_AQUI` acima pelo link copiado.  
+3. Para incentivar recrutadores a visualizar, prefira o link do arquivo duplicável (se for um template público): o Figma oferece `Duplicate` no community file.
+
+### Exemplo de badge/preview (opcional)
+Se quiser adicionar uma imagem de preview no README, faça o upload de um screenshot pequeno em `/docs/img/figma-preview.png` e adicione abaixo do link:
+```markdown
+[![Protótipo no Figma](./docs/img/figma-preview.png)](SEU_LINK_DO_FIGMA_AQUI)
+
+---
 ## 📎 Licença
 
 Este projeto é acadêmico, todos os direitos reservados aos integrantes.
