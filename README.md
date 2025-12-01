@@ -85,7 +85,7 @@ Este projeto visa aplicar princípios de:
 ## 🎨 Protótipo no Figma
 
 > **Link do protótipo (MVP)** — clique para abrir/duplicar no Figma:  
-> **🔗 [Abrir protótipo no Figma — DUPLICAR E EDITAR](SEU_LINK_DO_FIGMA_AQUI)**
+> **🔗 [Abrir protótipo no Figma — DUPLICAR E EDITAR](https://www.figma.com/design/U0oVga8fcn2PK46nioLQF2/Projeto-Integrador-3?node-id=0-1&t=FbRF6X2J3i1BY97G-1)**
 
 ---
 ## 📎 Licença
